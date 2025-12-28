@@ -1,12 +1,12 @@
 # Проект 1. Анализ резюме на HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/reallylisa/first_step_data_science/tree/main/DS_Project_1/README.md#Описание-проекта)    
-[2. Какой кейс решает?](https://github.com/reallylisa/first_step_data_science/tree/main/DS_Project_1/README.md#Какой-кейс-решает)  
-[3. Краткая информация о данных](https://github.com/reallylisa/first_step_data_science/tree/main/DS_Project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/reallylisa/first_step_data_science/tree/main/DS_Project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/reallylisa/first_step_data_science/tree/main/DS_Project_1/README.md#Результат)  
-[6. Выводы](https://github.com/reallylisa/first_step_data_science/tree/main/DS_Project_1/README.md#Выводы)
+[1. Описание проекта](https://github.com/reallylisa/first_step_data_science/blob/main/DS_Project_1/README.md#Описание-проекта)    
+[2. Какой кейс решает?](https://github.com/reallylisa/first_step_data_science/blob/main/DS_Project_1/README.md#Какой-кейс-решает)  
+[3. Краткая информация о данных](https://github.com/reallylisa/first_step_data_science/blob/main/DS_Project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/reallylisa/first_step_data_science/blob/main/DS_Project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/reallylisa/first_step_data_science/blob/main/DS_Project_1/README.md#Результат)  
+[6. Выводы](https://github.com/reallylisa/first_step_data_science/blob/main/DS_Project_1/README.md#Выводы)
 
 ### Описание проекта  
 Проект представляет собой исследовательский анализ данных на основе CSV‑файла с резюме соискателей.  
