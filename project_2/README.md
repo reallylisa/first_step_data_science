@@ -5,7 +5,7 @@
 [2. Какой кейс решает?](https://github.com/reallylisa/first_step_data_science/blob/main/project_2/README.md#Какой-кейс-решает)  
 [3. Краткая информация о данных](https://github.com/reallylisa/first_step_data_science/blob/main/project_2/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/reallylisa/first_step_data_science/blob/main/project_2/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/reallylisa/first_step_data_science/blob/main/project_2/README.md#Результат)  
+[5. Результаты](https://github.com/reallylisa/first_step_data_science/blob/main/project_2/README.md#Результаты)  
 [6. Выводы](https://github.com/reallylisa/first_step_data_science/blob/main/project_2/README.md#Выводы)
 
 ### Описание проекта  
