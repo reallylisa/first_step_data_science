@@ -36,7 +36,7 @@
 
 
 ### Краткая информация о данных  
-Источник соревнования: 👉 [![Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)](ссылка_на_соревнование) 
+Источник соревнования: 👉 [соревнование Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)
 
 
 ### Этапы работы над проектом  
