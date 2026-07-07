@@ -1,4 +1,4 @@
-# Проект 1. Анализ резюме на HeadHunter
+# Проект Kaggle.
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/reallylisa/first_step_data_science/blob/main/project_kaggle/README.md#Описание-проекта)    
